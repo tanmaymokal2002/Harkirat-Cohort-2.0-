@@ -19,3 +19,21 @@ function explainParseFloat(value) {
 // explainParseFloat("3.14");
 // explainParseFloat("42");
 // explainParseFloat("42px");
+
+explainParseFloat('43')
+lessie the mask the function
+
+setTimeout(() => {
+  return function()
+}, 1000);
+
+setTimeout(() => {
+  return function (){
+    return function(){
+      return func
+    }
+  }
+})
+
+
+
